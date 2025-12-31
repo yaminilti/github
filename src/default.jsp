@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">WELCOME TO LTIMINDTREE</h1>
+      <h1 class="cover-heading">WELCOME TO DEVOPS TRAINING</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
@@ -37,7 +37,7 @@
       <p>You wouldn't let a snake into your house, so why would you want one on your television screen? If you go out to see a movie, don't you want to know whether or not you can expect to be bombarded with images of awful snakes?</p>
       <div id="badsnake" parallax="true"></div>
       <!--Browse movies -->
-      <h2>Find something to watch</h2>
+      <h2>Weekly assessment-2</h2>
       <p>Don't get caught off guard by a snake in your evening entertainment. <i>Does it Have Snakes?</i> provides a <a href="movies">list of movies</a> that are certified snake-free. Browse our list of movies when you want to find something to watch without worrying about whether it has snakes in it or not. Great for kids, the skittish, and field mice.</p>
       <div id="badsnake2" parallax="true"></div>
       <!--Search for a movie -->
@@ -81,4 +81,5 @@
     <script src="js/init.js"></script>
   </body>
 </html>
+
 
